@@ -14,3 +14,5 @@ Sample questions:
 9. #photography (for photography resources)
 10. Send me a quote
 And Dexie can strike a Small talk conversation too.
+
+Use this link to chat with the bot: https://bot.dialogflow.com/2c0cdfe7-6d51-4307-84de-43cd9a3c084b
